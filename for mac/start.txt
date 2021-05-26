@@ -1,0 +1,10 @@
+1. npm install both server and client folders
+2. open server folder in vs-code then enter command node index.js
+3. open client folder then enter command npm start
+
+mac packager creation
+
+https://www.christianengvall.se/electron-packager-tutorial/
+
+the above link contains details
+
